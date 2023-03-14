@@ -1,0 +1,16 @@
+.partners__header {
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-left: 20px;
+  margin-bottom: 32px;
+  letter-spacing: -0.3px;
+  font-weight: 500;
+}
+
+@media screen and (min-width: 1280px) {
+  .partners__header {
+    font-size: 24px;
+    margin-left: 100px;
+    letter-spacing: -1.3px;
+  }
+}
